@@ -1,0 +1,17 @@
+{
+  "name": "Folly Beach Tides",
+  "short_name": "Folly Beach Tides",
+  "description": "A simple PWA to view Charleston, SC tide charts",
+  "lang": "en-US",
+  "start_url": "https://louisahsmith.github.io/folly-tide",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icons/icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
